@@ -16,6 +16,9 @@ body{
 }
 .half-width{
     width: 40%;
+   
+}
+.auto-margin{
     margin: auto;
 }
 .half-width img{
@@ -53,4 +56,39 @@ body{
 }
 .goal{
     background-color: rgb(204, 163, 243);
+}
+.develop{
+    margin-top: 100px;
+    background-image: url(./images/dream-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.margin1{
+    margin-left: 8%;
+    margin-right:2%;
+}
+.margin2{
+    margin-left:2%;
+    margin-right: 8%;
+
+}
+.community{
+    margin-top: 100px;
+    background-image: url(./images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+
+}
+.footer{
+    margin-top: 100px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.extra
+{
+    margin-top: 100px;
+    background-image:url(./images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
