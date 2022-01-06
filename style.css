@@ -1,0 +1,56 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+.headline{
+    border-left: 5px solid rgb(226, 14, 49);
+   
+    
+}
+.darkseagreen{
+    color: darkseagreen;
+}
+
+.display-flex{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    margin: auto;
+}
+.half-width img{
+    width: 80%;
+}
+.btn{
+    background-image: linear-gradient(rgb(64, 134, 6), rgb(34, 109, 57));
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.font
+{
+    font-weight: 800;
+    font-size: larger;
+}
+.third-width
+{
+    width: 25%;
+    margin: auto;
+    border: 5px solid none;
+    border-radius: 20px;
+    
+}
+.third-width img{
+    width: 50%;
+   
+}
+.mission
+{
+    background-color: rgb(243, 164, 243);
+}
+.vission{
+    background-color: rgb(162, 241, 234);
+}
+.goal{
+    background-color: rgb(204, 163, 243);
+}
